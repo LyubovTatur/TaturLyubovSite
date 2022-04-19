@@ -1,27 +1,23 @@
 {
   "name": "taturlyubovsite",
   "version": "1.0.0",
-  "private": true,
-  "description": "Frontity project",
-  "keywords": [
-    "frontity"
-  ],
-  "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "frontity dev",
-    "build": "frontity build",
-    "serve": "frontity serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "prettier": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyubovTatur/TaturLyubovSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyubovTatur/TaturLyubovSite/issues"
+  },
+  "homepage": "https://github.com/LyubovTatur/TaturLyubovSite#readme",
   "dependencies": {
-    "frontity": "^1.17.2",
-    "@frontity/core": "^1.15.1",
-    "@frontity/wp-source": "^1.11.7",
-    "@frontity/tiny-router": "^1.4.4",
-    "@frontity/html2react": "^1.7.0",
-    "@frontity/mars-theme": "./packages/mars-theme"
+    "@wordpress/scripts": "^22.4.0"
   }
 }
