@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/LyubovTatur/TaturLyubovSite#readme",
   "dependencies": {
-    "@wordpress/scripts": "^22.4.0"
   }
 }
